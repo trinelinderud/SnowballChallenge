@@ -1,0 +1,28 @@
+
+
+#flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 3em 0 3em;
+    margin: auto;
+
+}
+
+/*@media (max-width: 800px)?? for tilpasse mobilskjerm osv?*/
+.flex-box {
+    width: 90%;
+    height: 35em;
+    background-color: rgb(221, 221, 221);
+    margin: 0 0.8em 1em;
+}
+
+/*
+h2 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 1.4em;
+  }
+  */
